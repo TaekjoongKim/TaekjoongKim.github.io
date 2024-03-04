@@ -19,8 +19,8 @@ locale                   : "en-US"
 title                    : "TaekjoongKim's Blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Taekjoong Kim"
-description              : "Change the world by being yourself."
+name                     : 
+description              : 
 url                      : "https://TaekjoongKim.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
