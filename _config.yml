@@ -104,11 +104,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Taekjoong Kim"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "Change the world by being yourself."
+  location         : "SEOUL KR"
+  email            : "ktj9806@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
